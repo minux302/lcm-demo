@@ -22,7 +22,7 @@ $ cd ComfyUI
 $ git checkout d9d8702d8dd2337c64610633f5df2dcd402379a8
 $ pip install -r requirements.txt
 
-$ pip insatll torchvision===0.16.1
+$ pip install torchvision===0.16.1
 # This code uses comfy_controlnet_preprocessors(https://github.com/Fannovel16/comfy_controlnet_preprocessors).
 # You need to install comfy_controlnet_preprocessors via ComfyUI-Manager(
 https://github.com/ltdrdata/ComfyUI-Manager)
